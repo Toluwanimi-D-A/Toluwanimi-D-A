@@ -1,6 +1,6 @@
 # Toluwanimi Ajayi
 **Aspiring Data Analyst | Excel | SQL | Power BI | Passionate about solving real-world problems with data**  
-📍 Lagos, Nigeria | 📧 ajayitoluwanimi03@gmail.com | [LinkedIn](https://www.linkedin.com/in/toluwanimi-ajayi-m) | [GitHub](https://github.com/your-username)
+📍 Lagos, Nigeria | 📧 ajayitoluwanimi03@gmail.com | [LinkedIn](https://www.linkedin.com/in/toluwanimi-ajayi-m) | [GitHub](https://github.com/Toluwanimi-D-A)
 
 # About Me
 Hello! I’m **Toluwanimi Ajayi**, a motivated and detail-oriented **data analyst trainee** with a background in pharmacy and a growing passion for transforming data into actionable insights.
